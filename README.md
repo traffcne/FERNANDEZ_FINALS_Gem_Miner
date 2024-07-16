@@ -14,3 +14,4 @@ Main Menu:
 https://www.youtube.com/watch?v=-GWjA6dixV4
 
 //Currently, the only way to change difficulties is to manually comment and un-comment the CreateGameBoard() function calls found in void Start() of the “GameManager'' script. 
+//Additionally, the difficulty by default is set to Ultra Violence or UV.
